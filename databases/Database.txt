@@ -1,0 +1,51 @@
+7
+DinhNamHMU
+mainam231299
+Nguyen Dinh Nam
+B15DCVT262
+7
+8
+9
+MaiMon
+hongmai1993
+Nguyen Thi Hong Mai
+D16DCVT267
+9
+8
+7
+TuThien
+tuthien1996
+Le Tu Thien
+D16DCVT113
+9
+9
+9
+QuangThanh
+quangthanh1993
+Luu Quang Thanh
+B17DCCN123
+5
+6
+7
+HieuLeMinh
+hieuleminh1991
+Le Minh Hieu
+B15DCCN259
+10
+9
+8
+HuyenLu
+luuhuyen1998
+Luu Thi Huyen
+D17DCCN167
+9
+8
+9
+NgoHoang
+hoangngo1998
+Ngo Dinh Hoang
+B19DCVT001
+10
+9
+10
+
