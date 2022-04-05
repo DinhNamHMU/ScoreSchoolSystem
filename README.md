@@ -53,6 +53,3 @@
 - Ngôn ngữ C, sử dụng bộ thư viện TCP trên hệ điều hành Linux
 - LOG_IN_REQUEST có ít nhất (Client_id và client_password)
 - TCP user server sử dụng thread_1 cho client_1 và thread_2 cho client_2
-
-
-
