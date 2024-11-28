@@ -5,7 +5,7 @@ by Viettel High Technology Industries Corporation
 ---
 
 ## **1. Student Information**
-- **Full Name**: Nguyễn Đình Nam  
+- **Full Name**: Nam Nguyen
 - **Student ID**: B15DCVT262  
 - **Class**: D16CQVT06-B  
 - **Institution**: Posts and Telecommunications Institute of Technology  
